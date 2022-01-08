@@ -35,7 +35,7 @@ A repository is usually used to organize a single project. Repositories can cont
 Your `hello-world` repository can be a place where you store ideas, resources, or even share and discuss things with others.
 
 {% data reusables.repositories.create_new %}
-1. In the **Repository name** box, enter `hello-world`.
+1. In the **hello-world** box, enter `hello-world`.
 2. In the **Description** box, write a short description.
 3. Select **Add a README file**.
 4. Click **Create repository**.
